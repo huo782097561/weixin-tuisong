@@ -9,6 +9,7 @@
 距离小宝生日还有{{birthday1.DATA}}天 
 距离我的生日还有{{birthday2.DATA}}天 
 寄言：
-{{lizhi.DATA}}  
-彩虹屁：
+{{lizhi.DATA}} 
+{{note_en.DATA}} 
+{{note_ch.DATA}} 
 {{pipi.DATA}}
