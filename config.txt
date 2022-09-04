@@ -60,7 +60,7 @@
 #如果不用这个接口，请不要改动里面的内容
 
 #替换成key 
-"lizhi_API":"0cda697d3b0417dece335276c9dfced9",
+"lizhi_API":"8a90e6730deba53e7ccf8a21abfc7fa5",
 
 ###注意要在消息模板中加入{{lizhi.DATA}}，才能够正常显示
 
